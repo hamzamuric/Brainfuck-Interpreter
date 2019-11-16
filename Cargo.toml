@@ -1,5 +1,5 @@
 [package]
-name = "brainfuck-interpreter"
+name = "bf"
 version = "0.1.0"
 authors = ["Hamza Muric <hamzamuric9@gmail.com>"]
 edition = "2018"
